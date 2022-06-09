@@ -33,3 +33,6 @@ https://bit.ly/MuFakh-m3u
 http://axcestv.vip:8080/get.php?username=freeview&password=axcestv&type=m3u_plus
 https://bit.ly/Livetv-1234
 https://t.me/+IsJSyg2SD9JhMGU1
+https://raw.githubusercontent.com/DarkSide2109/MuZu/main/index.html
+https://links.astradamy.com/hVQtGaR2
+https://github.com/search?q=astradamy&type=code
