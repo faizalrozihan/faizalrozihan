@@ -72,3 +72,10 @@ http://tiny.cc/cy9huz
 http://iptv.tvmalaysia.cc:80/get.php?username=845197&password=845197&type=m3u_plus
 https://yamcode.com/raw/muzuiptv-3
 https://bit.ly/mewatchurl
+https://links.astradamy.com/9Ul1KPOT
+https://links.astradamy.com/NJOI
+http://bit.ly/mytvM3U
+http://bit.ly/tvmalaysiaiptv
+https://yamcode.com/raw/sl0hd3lefo
+https://bit.ly/Nuraincantik
+https://links.aqfadtv.xyz/Ont57nx8
