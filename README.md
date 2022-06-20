@@ -86,3 +86,6 @@ http://bit.ly/tvmalaysiaiptv
 https://yamcode.com/raw/sl0hd3lefo
 https://bit.ly/Nuraincantik
 https://links.aqfadtv.xyz/Ont57nx8
+
+apk
+https://androidrepublica.website/Apk/7-Games/Minecraft%20v1.11.0.5.apk
