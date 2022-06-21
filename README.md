@@ -95,5 +95,8 @@ https://raw.githubusercontent.com/ewrniamfo/rekwewq/main/qerfq21
 https://raw.githubusercontent.com/PortableTV/TV.m3u/main/PortableTV
 https://raw.githubusercontent.com/PortableTV/TV.m3u/main/Free
 https://raw.githubusercontent.com/faizalrozihan/Astro-MYTV/main/Faizalrozihan/MuZu40.m3u
+http://axcestv.vip:8080 FreeSG axcestv
+http://axcestv.vip:8080/get.php?username=FreeSG&password=axcestv&type=m3u_plus
+https://bit.ly/tontonM3U https://tinyurl.com/exodTV https://yamcode.com/raw/ewqpz8wu80 https://raw.githubusercontent.com/hanafitaufik/test/1601780da9870503aea065447d0c78ff5eb0e6d3/new.m3u
 apk
 https://androidrepublica.website/Apk/7-Games/Minecraft%20v1.11.0.5.apk
