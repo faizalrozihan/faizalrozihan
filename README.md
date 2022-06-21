@@ -103,6 +103,7 @@ https://yamcode.com/raw/ewqpz8wu80
 https://raw.githubusercontent.com/hanafitaufik/test/1601780da9870503aea065447d0c78ff5eb0e6d3/new.m3u
 https://links.aqfadtv.xyz/Ont57nx8
 https://links.aqfadtv.xyz/hVQtGaR2
+https://links.aqfadtv.xyz/hVQtGaR2
 EPG
 https://weareblahs.github.io/epg/astro.xml
 https://weareblahs.github.io/epg/unifitv.xml
@@ -130,5 +131,6 @@ https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/mytv.xml
 https://iptv-org.github.io/epg/guides/my/beinsports.com.epg.xml
 https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml
+https://bit.ly/aqfadtvepg
 apk
 https://androidrepublica.website/Apk/7-Games/Minecraft%20v1.11.0.5.apk
