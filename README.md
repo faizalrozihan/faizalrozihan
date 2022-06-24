@@ -104,6 +104,9 @@ https://raw.githubusercontent.com/hanafitaufik/test/1601780da9870503aea065447d0c
 https://links.aqfadtv.xyz/Ont57nx8
 https://links.aqfadtv.xyz/hVQtGaR2
 https://links.aqfadtv.xyz/hVQtGaR2
+https://bit.ly/tvmuar6
+https://tinyurl.com/exodTV
+https://bit.ly/5WPsL3
 EPG
 https://weareblahs.github.io/epg/astro.xml
 https://weareblahs.github.io/epg/unifitv.xml
