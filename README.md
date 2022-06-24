@@ -115,6 +115,9 @@ https://weareblahs.github.io/epg/rtmklik.xml
 http://axcestv.vip:8080/xmltv.php?username=FreeSG&password=axcestv
 http://bit.ly/MuZu-epg
 https://bit.ly/3itZsSm
+https://bit.ly/starhubEPG
+https://bit.ly/rtmklikEPG
+https://bit.ly/unifitvEPG
 http://epg.it999.ru/epg.xml.gz
 http://bit.ly/MY-epg
 https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml
