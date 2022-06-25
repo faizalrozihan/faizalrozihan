@@ -63,6 +63,8 @@ https://github.com/MYZARtv
 https://github.com/androidrepublica
 https://github.com/DarkSide2109
 https://github.com/Ajis199494
+https://github.com/srlegacy
+https://github.com/malaysianiptv
 
 m3u
 https://yamcode.com/raw/untitled-59785
@@ -107,6 +109,10 @@ https://links.aqfadtv.xyz/hVQtGaR2
 https://bit.ly/tvmuar6
 https://tinyurl.com/exodTV
 https://bit.ly/5WPsL3
+https://raw.githubusercontent.com/srlegacy/IPTV-PREMIUM-C/main/IPTV%20PREMIUM%20C
+https://raw.githubusercontent.com/srlegacy/SMOOTH-LIFETIME/main/SMOOTH%20LIFETIME
+https://raw.githubusercontent.com/srlegacy/IPTV-B/main/IPTV%20B
+https://raw.githubusercontent.com/malaysianiptv/AYU/b4bbae0d2e2632d7820af235daeb899218a21b44/18522
 EPG
 https://weareblahs.github.io/epg/astro.xml
 https://weareblahs.github.io/epg/unifitv.xml
