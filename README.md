@@ -154,3 +154,9 @@ https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml
 https://bit.ly/aqfadtvepg
 apk
 https://androidrepublica.website/Apk/7-Games/Minecraft%20v1.11.0.5.apk
+
+OTT Navigator TiviMate 
+http://semuatv.yn.it
+https://ayuh.jomlah.download/private-stuff/chika.mp4
+https://bit.ly/stronghold4M3U
+https://bit.ly/tvmuar7
