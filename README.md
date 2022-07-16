@@ -29,6 +29,7 @@ https://bit.ly/MuFakh-m3u
 http://axcestv.vip:8080/get.php?username=freeview&password=axcestv&type=m3u_plus
 https://bit.ly/Livetv-1234
 https://t.me/+IsJSyg2SD9JhMGU1
+https://raw.githubusercontent.com/reynelda86/MyTv/60c429f9d24762767901f6668b6d45c98b4b305e/Sample2.m3u
 
 ### Hi there 👋
 
