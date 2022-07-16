@@ -78,15 +78,16 @@ https://raw.githubusercontent.com/faizalrozihan/Astro-MYTV/main/Faizalrozihan/Mu
 Astro-unifi-TV-MYTV-RTMKlik-meWATCH-
 Astro Channel 101-877 Unifi TV Channel 100-998 myFreeview Channel 101-725
 epg
-https://bit.ly/aqfadtvepg 
+https://bit.ly/AqFadTVEPG
 https://weareblahs.github.io/epg/astro.xml 
 https://weareblahs.github.io/epg/unifitv.xml
 https://weareblahs.github.io/epg/mytv.xml
 https://weareblahs.github.io/epg/rtmklik.xml
-https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml
-https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml
-https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml
-https://raw.githubusercontent.com/AqFad2811/myiptv/main/mytv.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+https://bit.ly/3itZsSm
+https://tinyurl.com/aqfadtvepg
+https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml
+https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml
 
 github.com 
 https://github.com/PortableTV
