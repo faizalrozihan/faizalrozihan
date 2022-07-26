@@ -246,3 +246,6 @@ https://github.com/search?q=Tonton&type=code
 https://github.com/search?q=Singtel+TV&type=code
 https://github.com/search?q=StarHub+TV&type=code
 https://github.com/search?q=mncnow&type=code
+https://raw.githubusercontent.com/gohhh1234/IPTV-2/master/Prototype/A.m3u8
+https://bit.ly/B-m3u
+https://bit.ly/stronghold4M3U
