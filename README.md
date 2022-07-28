@@ -250,3 +250,6 @@ https://github.com/search?q=mncnow&type=code
 https://raw.githubusercontent.com/gohhh1234/IPTV-2/master/Prototype/A.m3u8
 https://bit.ly/B-m3u
 https://bit.ly/stronghold4M3U
+https://m3u-editor.com/xml/jack
+https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml
+https://bit.ly/virus_epg
