@@ -254,3 +254,4 @@ https://bit.ly/stronghold4M3U
 https://m3u-editor.com/xml/jack
 https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml
 https://bit.ly/virus_epg
+https://github.com/Virusiptvpro
