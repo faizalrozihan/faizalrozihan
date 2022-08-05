@@ -270,3 +270,4 @@ https://dl.dropboxusercontent.com/s/17mhozhf2h1p341/playlist_me_on.m3u?dl=0 | ht
 https://raw.githubusercontent.com/reynelda86/MyTv/main/MyTv.m3u | https://raw.githubusercontent.com/MYZARtv/exclusive/main/Testtt
 https://github.com/botallen/epg/releases/download/latest/epg.xml | https://unifiplaytv.samsam123.tk/epg | http://bit.ly/kodiEPG | https://aqfadtv.xyz/epg 
 https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml | https://iptv-org.github.io/epg/guides/ad/andorradifusio.ad.epg.xml 
+https://weareblahs.github.io/epg/mytv.xml | https://weareblahs.github.io/epg/astro.xml | http://rtm.samsam123.tk/rtmklik.xml | https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml
