@@ -255,3 +255,18 @@ https://m3u-editor.com/xml/jack
 https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml
 https://bit.ly/virus_epg
 https://github.com/Virusiptvpro
+
+TiviMate OTT
+http://tinyurl.com/iptv5mirror
+https://astrom3u2022.wapka.xyz/index
+http://tinyurl.com/iptv6mirror
+https://raw.githubusercontent.com/faizalrozihan/myiptv6k/main/Faizalrozihan/%40%24TRO%20tV.m3u
+https://raw.githubusercontent.com/faizalrozihan/tonton/main/Faizalrozihan/tonton.m3u
+https://raw.githubusercontent.com/azrinahmademuri/-TV-/main/README.md
+https://raw.githubusercontent.com/reynelda86/MyTv/main/Unifi.m3u
+https://raw.githubusercontent.com/weareblahs/freeview/main/mytv_broadcasting.m3u8
+https://smetv.live/playlist/freeMY/smetv/m3u_plus | https://iptv-org.github.io/iptv/index.category.m3u
+https://dl.dropboxusercontent.com/s/17mhozhf2h1p341/playlist_me_on.m3u?dl=0 | https://raw.githubusercontent.com/faizalrozihan/iptvmirror/main/Faizalrozihan/iptv10mirror.m3u
+https://raw.githubusercontent.com/reynelda86/MyTv/main/MyTv.m3u | https://raw.githubusercontent.com/MYZARtv/exclusive/main/Testtt
+https://github.com/botallen/epg/releases/download/latest/epg.xml | https://unifiplaytv.samsam123.tk/epg | http://bit.ly/kodiEPG | https://aqfadtv.xyz/epg 
+https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml | https://iptv-org.github.io/epg/guides/ad/andorradifusio.ad.epg.xml 
