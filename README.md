@@ -277,4 +277,4 @@ https://github.com/bishrunhacking | https://github.com/Virusiptvpro | https://gi
 ## bit.ly ##
 https://app.bitly.com/Bm1p97A8VeI/bitlinks/ 
 
-https://github.com/Shaaina90 | https://github.com/KakLongGarang | https://github.com/Abdaziz1994 | https://github.com/Ajis199494 | http://iptv12k.com:35461/get.php?username=64920220731001&password=432158&type=m3u_plus
+https://github.com/Shaaina90 | https://github.com/KakLongGarang | https://github.com/Abdaziz1994 | https://github.com/Ajis199494 | http://iptv12k.com:35461/get.php?username=64920220731001&password=432158&type=m3u_plus | https://duittraficmonsoon.blogspot.com/2022/03/ejarl-kau.html?m=0 | https://duittraficmonsoon.blogspot.com/2022/04/baik-punyerrrr.html?m=0 |
