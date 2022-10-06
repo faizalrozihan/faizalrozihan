@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## m3u playlist malaysia Singapore ##
 
+https://dukun.masuk.id/vod
 https://github.com/RizkyWebID
 https://bit.ly/Nuraincantik
 https://github.com/stephenfan97
