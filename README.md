@@ -8,7 +8,7 @@
 faizalrozihan/faizalrozihan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## m3u playlist malaysia Singapore ##
+== m3u playlist malaysia Singapore ==
 
 https://dukun.masuk.id/vod
 https://github.com/RizkyWebID
@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/PortableTV/TV.m3u/main/Free
 https://raw.githubusercontent.com/faizalrozihan/Astro-MYTV/main/Faizalrozihan/MuZu40.m3u
 Astro-unifi-TV-MYTV-RTMKlik-meWATCH-
 Astro Channel 101-877 Unifi TV Channel 100-998 myFreeview Channel 101-725
-## epg ##
+== epg ==
 https://bit.ly/AqFadTVEPG
 https://weareblahs.github.io/epg/astro.xml 
 https://weareblahs.github.io/epg/unifitv.xml
@@ -95,7 +95,7 @@ https://tinyurl.com/aqfadtvepg
 https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml
 https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml
 
-## github.com ##
+== github.com ==
 https://github.com/PortableTV
 https://github.com/azrinahmademuri
 https://github.com/MYZARtv
@@ -113,7 +113,7 @@ https://github.com/Virusiptvpro
 https://github.com/search?q=myfreeview&type=Code
 https://github.com/search?q=sooka&type=repositories
 https://github.com/search?q=astro+go&type=code
-## m3u ##
+== m3u ==
 https://yamcode.com/raw/untitled-59785
 https://yamcode.com/raw/untitled-5751
 http://muzu09.freevar.com
@@ -160,7 +160,7 @@ https://raw.githubusercontent.com/srlegacy/IPTV-PREMIUM-C/main/IPTV%20PREMIUM%20
 https://raw.githubusercontent.com/srlegacy/SMOOTH-LIFETIME/main/SMOOTH%20LIFETIME
 https://raw.githubusercontent.com/srlegacy/IPTV-B/main/IPTV%20B
 https://raw.githubusercontent.com/malaysianiptv/AYU/b4bbae0d2e2632d7820af235daeb899218a21b44/18522
-## EPG ##
+== EPG ==
 https://weareblahs.github.io/epg/astro.xml
 https://weareblahs.github.io/epg/unifitv.xml
 https://weareblahs.github.io/epg/mytv.xml
@@ -191,10 +191,10 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/mytv.xml
 https://iptv-org.github.io/epg/guides/my/beinsports.com.epg.xml
 https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml
 https://bit.ly/aqfadtvepg
-## apk ##
+== apk ==
 https://androidrepublica.website/Apk/7-Games/Minecraft%20v1.11.0.5.apk
 
-## OTT Navigator TiviMate ##
+== OTT Navigator TiviMate ==
 http://semuatv.yn.it
 https://ayuh.jomlah.download/private-stuff/chika.mp4
 https://bit.ly/stronghold4M3U
