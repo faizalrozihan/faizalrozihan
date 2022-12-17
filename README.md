@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 ==m3u playlist malaysia Singapore==
 
-https://dukun.masuk.id/vod
-https://github.com/RizkyWebID
-https://bit.ly/Nuraincantik
-https://github.com/stephenfan97
+https://dukun.masuk.id/vod | https://aqfadtv.xyz/epg | https://bit.ly/aqfadtvepg | https://weareblahs.github.io/epg/astro.xml | https://weareblahs.github.io/epg/unifitv.xml | https://weareblahs.github.io/epg/mytv.xml | https://weareblahs.github.io/epg/rtmklik.xml
+https://github.com/RizkyWebID | https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml | https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml | https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml | https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml | https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml | https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml | https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml | https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml | https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml | https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml
+https://bit.ly/Nuraincantik | https://bit.ly/starhubtvEPG | https://stavol.my.id/epg/epg.xml | http://rtm.samsam123.tk/rtmklik.xml | https://bit.ly/3itZsSm | https://epg.kampung.xyz/IPTV.xml | https://bit.ly/MY-epg | http://bit.ly/kodiEPG | https://bit.ly/epgvirus_tv
+https://github.com/stephenfan97 
 https://github.com/Danishdania86
 https://bit.ly/iptv9mirror 
 https://bit.ly/tipsproiptv
